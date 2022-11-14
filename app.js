@@ -15,6 +15,14 @@ const profiles = [
         comment: "Suiiii",
         dots: 421,
         dotsClicked: false
+    },
+    {
+        username: "RonaldoSui7",
+        image: "ronaldo-profile-img.png",
+        upload: "ronaldo-post.jpg",
+        comment: "Suiiii",
+        dots: 521,
+        dotsClicked: false
     }
 ]
 
